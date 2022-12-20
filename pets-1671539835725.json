@@ -1,0 +1,20 @@
+[
+  {
+    "color": "white",
+    "type": "dog",
+    "size": "nano",
+    "name": "Ghost"
+  },
+  {
+    "color": "white",
+    "type": "fox",
+    "size": "nano",
+    "name": "Ruby"
+  },
+  {
+    "color": "yellow",
+    "type": "rubber-duck",
+    "size": "nano",
+    "name": "Brian"
+  }
+]
